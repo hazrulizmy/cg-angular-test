@@ -1,0 +1,11 @@
+{
+  "generator-ng-fullstack": {
+    "username": "hazrulizmy",
+    "appName": "time-log",
+    "stack": "client",
+    "server": "",
+    "client": "ng1",
+    "secure": true,
+    "cordova": false
+  }
+}
